@@ -3,7 +3,7 @@ title: 'A GUI for general biodiversity indicators'
 tags:
   - Shiny
   - biodiversity indicators
-authors:
+Authors:
   - name: Shawn Dove
     orcid: 0000-0001-9465-5638
     affiliation: 1
@@ -30,15 +30,15 @@ authors:
     affiliation: 5    
 
 affiliations:
- - name: test1
+ - name: Justus Liebig University Giessen, Giessen, Germany
    index: 1
  - name: Conservation Genomics Research Unit, Research and Innovation Centre, Fondazione Edmund Mach, Trento, Italy
    index: 2
  - name: Meise Botanic Garden, Nieuwelaan 38, 1860 Meise, Belgium
    index: 3
- - name: test2
+ - name: Macrocology, Institute of Biochemistry and Biology, University of Potsdam, 14469 Potsdam, Germany
    index: 4
- - name: test3
+ - name: Centro de Estudos do Ambiente e do Mar (CESAM) & Departamento de Biologia, Universidade de Aveiro, Campus Universitário de Santiago, Aveiro, Portugal
    index: 5
 date: 04. April 2024
 bibliography: paper.bib
@@ -49,6 +49,7 @@ biohackathon_name: Hacking Biodiversity Data Cubes for Policy
 biohackathon_url: https://b-cubed.eu/b-cubed-hackathon
 biohackathon_location: Brussels, Belgium
 ---
+
 
 # A GUI for general biodiversity indicators
 
