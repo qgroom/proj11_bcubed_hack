@@ -3,7 +3,7 @@ title: 'A GUI for general biodiversity indicators'
 tags:
   - Shiny
   - biodiversity indicators
-Authors:
+authors:
   - name: Shawn Dove
     orcid: 0000-0001-9465-5638
     affiliation: 1
