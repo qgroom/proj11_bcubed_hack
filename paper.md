@@ -1,16 +1,14 @@
 ---
-title: 'An iNaturalist-Pl@ntNet-workflow to identify plant-pollinator interactions – a case study of *Isodontia mexicana*'
+title: 'A GUI for general biodiversity indicators'
 tags:
-  - invasive species
-  - citizen science
-  - automated image recognition
-  - Isodontia mexicana
+  - Shiny
+  - biodiversity indicators
 Authors:
   - name: Shawn Dove
     orcid: 0000-0001-9465-5638
     affiliation: 1
   - name: Emily L. Pascoe
-    Orcid: 0000-0003-3493-3485
+    orcid: 0000-0003-3493-3485
     affiliation: 2
   - name: Mathias Dillen
     orcid: 0000-0002-3973-1252
@@ -31,17 +29,16 @@ Authors:
     orcid: 0000-0002-5447-4055
     affiliation: 5    
 
-    
 affiliations:
- - name: 
+ - name: test1
    index: 1
  - name: Conservation Genomics Research Unit, Research and Innovation Centre, Fondazione Edmund Mach, Trento, Italy
    index: 2
  - name: Meise Botanic Garden, Nieuwelaan 38, 1860 Meise, Belgium
    index: 3
- - name: 
+ - name: test2
    index: 4
- - name: 
+ - name: test3
    index: 5
 date: 04. April 2024
 bibliography: paper.bib
